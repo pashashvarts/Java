@@ -1,0 +1,10 @@
+Lexus  Red  AK9265AK  2003  Peduraru_Olexandr_Mukolayovuch
+Lexus  Black  AK9123AK  2009  Shvarts_Pavlo_Vaculovuch
+Lexus  Pink  AK9214AK  2011  Semenyuk_Olena_Volodumerivna
+BMW  Green  AK8193AK  2014  Topalo_Denis_Olegovich
+BMW  White  AK7381AK  2004  Podolyan_Vadum_Yuriyovuch
+Audi  Orange  AK8123AK  2001  Dariychuk_Roman_Igorovuch
+Audi  Brown  AK2351AK  2007  Kravchuk_Andriy_Antonovuch
+Ford  Purple  AK1132AK  2019  Fedorcha_Dmutro_Valeriyovuch
+Porsche  Orange  AK7777AK  2020  Ponuch_Olexiy_Vitaliyovuch
+Tesla  White  AK8888AK  2021  Barkevuch_Dmutro_Andriyovuch
